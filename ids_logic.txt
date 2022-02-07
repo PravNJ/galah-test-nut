@@ -1,0 +1,6 @@
+non_null_candidates.csv --> GDR3_non_null_resampled_spectra.h5
+
+
+
+GALAH_DR3_sobject_ids_rerun.csv---> GDR3_missed60K_resampled_spectra.h5
+
